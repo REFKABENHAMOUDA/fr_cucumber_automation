@@ -52,4 +52,9 @@ public class Setup {
 		}
 	}
 
+	public static WebDriver driver() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
